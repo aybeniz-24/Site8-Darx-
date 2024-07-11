@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Museo Sans';
+    src: url('../font/museo/MuseoSans_500.otf');
+}
+
+@font-face {
+    font-family: 'Caviar Dreams';
+    src: url('../font/caviar/CaviarDreams.ttf');
+}
+@font-face {
+    font-family: 'Caviar Dreams Bold';
+    src: url('../font/caviar/Caviar_Dreams_Bold.ttf');
+}
